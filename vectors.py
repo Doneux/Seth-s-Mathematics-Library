@@ -89,7 +89,6 @@ def vectorsolve():
     win1 = Toplevel()
     win1.geometry('250x500')
     win1.title('Vector Solver')
-    ComponentEntry = True #initialize bool to control which entry method is available - component or polar, using -show method.
 
     '''
     2D Vector Solver - Solve for Norm and Angle given components and vice versa.
