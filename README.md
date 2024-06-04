@@ -2,4 +2,4 @@ Seth's library of Python math libraries, classes, scripts, and calculators. All 
 
 Index:
 
-Vectors.py - Classes and Calculator for vectors in R2 and R3.
+vectors.py - Classes and Calculator for vectors in R2 and R3.
